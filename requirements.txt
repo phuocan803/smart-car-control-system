@@ -1,3 +1,19 @@
-opencv-python==4.10.0.84
-mediapipe==0.10.14
-pyserial==3.5
+# Core Computer Vision & Gesture Recognition
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Hardware & Serial Communication
+pyserial>=3.5
+
+# Web Control Server & Flask APIs
+flask>=2.3.0
+flask-cors>=4.0.0
+requests>=2.31.0
+
+# Voice Control & AI / LLM Integration
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+langchain>=0.1.0
+openai>=1.0.0
+pynput>=1.7.6
+Pillow>=10.0.0
